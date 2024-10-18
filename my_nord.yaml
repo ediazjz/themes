@@ -1,0 +1,26 @@
+# Based on Nord by svengreb.
+# https://github.com/nordtheme/nord?tab=MIT-1-ov-file
+
+accent: "#8FBCBB"
+background: "#2E3440"
+foreground: "#4C566A"
+details: "darker"
+terminal_colors:
+  normal:
+    black: "#2C2C2C"
+    red: "#BF616A"
+    green: "#A3BE8C"
+    yellow: "#EBCB8B"
+    blue: "#5E81AC"
+    magenta: "#B48EAD"
+    cyan: "#88C0D0"
+    white: "#ECEFF4"
+  bright:
+    black: "#2C2C2C"
+    red: "#BF616A"
+    green: "#A3BE8C"
+    yellow: "#EBCB8B"
+    blue: "#5E81AC"
+    magenta: "#B48EAD"
+    cyan: "#88C0D0"
+    white: "#ECEFF4"
